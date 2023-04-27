@@ -5,13 +5,14 @@ The program in the file ToH.asm requires the files from the asm_io.asm file to b
 
 With that, running the assmbly program will allow the user to play the game in attempts to solve the puzzle. 
 
-Features:
-  Title & Rules Screens
-  Moves counter
-    Player moves are shown on the left
-    Player moves are shown in green while smaller than minimum possible moves
-    Player moves turn red once the move count outgrows the minimum possible moves
-  Animated win screen (not pictured)
+Features:  
+  &emsp;Title & Rules Screens  
+  &emsp;Moves counter  
+    &emsp;&emsp;Player moves are shown on the left  
+    &emsp;&emsp;Player moves are shown in green while smaller than minimum possible moves  
+    &emsp;&emsp;Player moves turn red once the move count outgrows the minimum possible moves  
+  &emsp;Animated win screen (not pictured)  
+  &emsp;
 
 ![Screenshot (160)](https://user-images.githubusercontent.com/105296198/234957560-d2b6beb1-1cb5-43dd-9dfe-aec25e38da65.png)
 
