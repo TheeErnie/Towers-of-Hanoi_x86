@@ -4,7 +4,7 @@
 ;//   AUTHOR: THEE_ERNIE               //;
 ;////////////////////////////////////////;
 
-%include "/usr/local/share/csc314/asm_io.inc"
+%include "<path_to>/asm_io.inc"
 segment .string
 
 segment .data
